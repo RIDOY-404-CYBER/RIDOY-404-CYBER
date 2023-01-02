@@ -18,25 +18,17 @@
 
 </p>
 
-![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
-
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
-
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
+
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
+
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 
 <a href="https://github.com/RIDOY-404-CYBER"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RIDOY-404-CYBER&theme=monokai"></a>
 
-</p>
 
-<p align="center"> 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RIDOY-404-CYBER&show_icons=true&locale=en" alt="akxvau" /></p>
+![RIDOY-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIDOY-404-CYBER&show_icons=true&theme=chartreuse-dark)  
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&" alt="akxvau" /></p>
 
