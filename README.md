@@ -30,5 +30,5 @@
 
 ![RIDOY-404-CYBER's GitHub stats](https://github-readme-stats.vercel.app/api?username=RIDOY-404-CYBER&show_icons=true&theme=chartreuse-dark)  
 
-![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
+![RIDOY-404-CYBER GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RIDOY-404-CYBER&theme=radical)
 
